@@ -1,0 +1,25 @@
+{
+  "tasks": [
+    {
+      "id": "e45db76b-aee3-4d7d-ab6a-387b3059974d",
+      "title": "Tarefa 2",
+      "time": "night",
+      "description": "Tarefa 2",
+      "status": "in_progress"
+    },
+    {
+      "id": "1a6f79fe-3d45-4c70-9979-d72f4e07c3a9",
+      "title": "Tarefa 3",
+      "time": "afternoon",
+      "description": "Tarefa 3",
+      "status": "not_started"
+    },
+    {
+      "id": "5b973419-2403-4fa5-b0d6-4add0b9b64b3",
+      "title": "Tarefa 1",
+      "time": "morning",
+      "description": "Tarefa 1",
+      "status": "done"
+    }
+  ]
+}
