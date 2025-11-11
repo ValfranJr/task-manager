@@ -109,3 +109,75 @@ Clone o projeto:
 ```sh
 git clone https://github.com/SEU_USUARIO/task-manager.git
 cd task-manager
+
+▶️ Rodar o projeto
+
+Para iniciar o servidor de desenvolvimento, execute: npm run dev
+
+🏗️ Build de produção
+
+Para gerar o build otimizado: npm run build
+
+🔍 Visualizar o build
+
+Para pré-visualizar o build gerado: npm run preview
+
+src/
+ ├─ components/
+ ├─ context/
+ ├─ hooks/
+ ├─ pages/
+ ├─ routes/
+ ├─ utils/
+ └─ main.jsx
+
+| Script            | Função                       |
+| ----------------- | ---------------------------- |
+| `npm run dev`     | Inicia o servidor            |
+| `npm run build`   | Gera o build para produção   |
+| `npm run preview` | Pré-visualiza o build        |
+| `npm run lint`    | Verifica qualidade de código |
+| `npm run prepare` | Configura Husky (pré-commit) |
+
+🎨 Layout & Design System
+
+UI minimalista centrada em baixa carga cognitiva
+
+Paleta de cores suave para foco visual
+
+Componentes reutilizáveis garantindo consistência visual
+
+💡 Roadmap (melhorias futuras)
+
+ Dark mode 🌙
+
+ Exportar tarefas para PDF
+
+ Integração com API (Supabase)
+
+ Notificações sonoras ao concluir tarefa
+
+🤝 Contribuindo
+
+Faça um fork do projeto.
+
+Crie uma nova branch: git checkout -b minha-feature
+
+Realize o commit das alterações: git commit -m "feat: nova funcionalidade"
+
+Envie a branch: git push origin minha-feature
+
+Abra um Pull Request 🚀
+
+📜 Licença
+
+Este projeto está sob a licença MIT — sinta-se livre para usar, modificar e melhorar.
+
+📬 Contato
+
+👤 Seu Nome
+🔗 GitHub: https://github.com/ValfranJr
+
+🔗 LinkedIn: 
+
+"Produtividade não é sobre fazer mais, e sim sobre fazer melhor." ✨
