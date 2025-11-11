@@ -175,7 +175,7 @@ Este projeto está sob a licença MIT — sinta-se livre para usar, modificar e 
 
 📬 Contato
 
-👤 Seu Nome
+👤 Valfran Jr.
 🔗 GitHub: https://github.com/ValfranJr
 
 🔗 LinkedIn: 
